@@ -9,9 +9,6 @@ We decided to make the model accessible through a web application to enhance and
 |-----------|---------------|-------------------------|
 
 
-- Timesheet: Link your timesheet (pinned in your project's Slack channel) where you track per student the time and tasks completed/participated for this project/
-- Slack channel: Link your private Slack project channel.
-- Project report: Link your Overleaf project report document.
 
 
 ## Video/demo/GIF
